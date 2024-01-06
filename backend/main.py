@@ -1,3 +1,4 @@
+# 仮想環境をスタートして、サーバーを立ち上げる
 # source venv/bin/activate
 # uvicorn main:app
 # uvicorn main:app --reload
